@@ -23,6 +23,6 @@ No experience yet.
 * University: Belarusian State University, Law Faculty
 * Courses: RS Schools Course "JavaScript/Front-End. Stage 0" (in progress)
 ## Languages
-* English - Intermediate
-* Russian - Native
-* Belaruian - Native
+* English - intermediate
+* Russian - native
+* Belaruian - native
