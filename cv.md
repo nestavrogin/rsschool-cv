@@ -1,7 +1,7 @@
 # Mikhail Karvat
 ## Contacts
 * Location: Minsk, Belarus
-* Telephone: +375 29 235-34-17
+* Telephone: +375 (29) 235-34-17
 * E-mail: karvattatyana@gmail.com
 * Git-hub: [nestavrogin](https://github.com/nestavrogin)
 ## About Myself
